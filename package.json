@@ -1,0 +1,14 @@
+{
+  "name": "chespirito",
+  "version": "1.0.0",
+  "main": "chavo.js",
+  "scripts": {
+    "dev": "nodemon chavo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
